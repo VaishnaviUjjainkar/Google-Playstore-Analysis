@@ -16,23 +16,7 @@ Which app categories have the most apps and the highest ratings?
 Do free apps outperform paid apps in installs and engagement?
 Does app price or review count actually influence its rating?
 Which apps and categories dominate the Play Store in installs and reviews?
-📂 Project Structure
-Google-Playstore-Analysis/
-│
-├── data/
-│   ├── Google_Playstore_Apps.csv         # Raw dataset (input)
-│   └── google_playstore_cleaned.csv      # Cleaned dataset (notebook output)
-│
-├── notebook/
-│   └── Google_Play_Store.ipynb           # Data cleaning + EDA
-│
-├── dashboard/
-│   └── Google_Playstore_Analysis.pbix    # Power BI dashboard
-│
-├── images/
-│   └── dashboard_screenshot.png          # Screenshot of the Power BI report
-│
-└── README.md
+
 🗃️ Dataset
 Source: Google Play Store Apps dataset (Kaggle)
 Rows: 9,745 | Columns: 9 (App, Category, Rating, Reviews, Installs, Type, Price, Genres, Last Updated)
