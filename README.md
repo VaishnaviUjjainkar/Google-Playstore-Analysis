@@ -80,7 +80,7 @@ Free vs Paid Apps (donut chart)
 
 App Distribution by Category (pie chart)
 
-(screenshot of your dashboard)<img width="1437" height="807" alt="Screenshot 2026-08-28 130346" src="https://github.com/user-attachments/assets/51dccf56-474e-426f-9b2d-7c4ff14f3a51" />
+(screenshot of dashboard)<img width="1437" height="807" alt="Screenshot 2026-08-28 130346" src="https://github.com/user-attachments/assets/51dccf56-474e-426f-9b2d-7c4ff14f3a51" />
 
 🛠️ Tools & Technologies
 
