@@ -1,6 +1,7 @@
 📱 Google Play Store Data Analysis
 
 App Performance & User Engagement Dashboard — an end-to-end data analytics project covering data cleaning, exploratory data analysis (EDA), and dashboarding on the Google Play Store Apps dataset.
+
 📖 Overview
 
 This project analyzes 9,745 Google Play Store app listings to uncover patterns in app categories, user ratings, installs, reviews, and pricing. The workflow covers the full analytics pipeline:
@@ -8,6 +9,7 @@ This project analyzes 9,745 Google Play Store app listings to uncover patterns i
 Data Cleaning — handling missing values, removing redundant columns, fixing data types (Python / Pandas, Jupyter Notebook)
 Exploratory Data Analysis — category trends, rating patterns, free vs. paid comparison, correlation analysis (Pandas, Matplotlib, Seaborn)
 Dashboarding — an interactive Power BI report summarizing key metrics and visuals for business-style reporting
+
 🎯 Objective
 
 To answer questions like:
